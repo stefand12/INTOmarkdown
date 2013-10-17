@@ -27,9 +27,9 @@ https://github.com/stefand12/INTOPrufa
 
 Erum badir med 
 <ol>
-<li>Codeblocks er med GNU license og haegt ad saekja her [id]: http://www.codeblocks.org/downloads/</li>
-<li> VLC player er med GNU og LGPL license og haegt ad saekja her [id]: http://www.videolan.org/vlc/download-ssources.html </li>
-<li> PuTTy er med MIT license og haegt ad saekja her [id]: http://www.chiark.greenend.org.uk/~sgtatham/puttyMIT/download.html
+<li>Codeblocks er med GNU license og haegt ad saekja her http://www.codeblocks.org/downloads/</li>
+<li> VLC player er med GNU og LGPL license og haegt ad saekja her http://www.videolan.org/vlc/download-ssources.html </li>
+<li> PuTTy er med MIT license og haegt ad saekja her http://www.chiark.greenend.org.uk/~sgtatham/puttyMIT/download.html
 </ol>
 
 ## 5. Unnið með Git (2. hluti)
