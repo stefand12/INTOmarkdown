@@ -19,9 +19,9 @@ Gekk vel i fyrstu tilraun
 
 ## 3. Unnið með Git (1. hluti)
 
-ekk fint i byrjun hja Stefani en lentum svo i sma vandraedum med ad lata runar commita sinn hluta, en tad orsakadist svo bara af netvandraedum.
+Gekk fint i byrjun hja Stefani en lentum svo i sma vandraedum med ad lata runar commita sinn hluta, en tad orsakadist svo bara af netvandraedum.
 
-[id]: https://github.com/stefand12/INTOPrufa
+https://github.com/stefand12/INTOPrufa
 
 ## 4. Uppsettur hugbúnaður
 
