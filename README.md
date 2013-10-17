@@ -10,6 +10,8 @@
 Tad gekk fint hja Stefani, setti upp VMware virtualvel og setti svo inn Mint.
 Runar lenti i vandraedum med ad setja inn linuxinn en tad leystist med tvi ad stilla i biosnum ad haegt vaeri ad nota virtualvel
 ![linuxrunar](https://f.cloud.github.com/assets/5694965/1351798/b6b8fb92-372c-11e3-979a-7c9983a4832d.jpg)
+![linux](https://f.cloud.github.com/assets/5694965/1351815/09f7f39e-372d-11e3-8049-2deb7b14ea5e.jpg)
+
 
 
 ## 2. Uppsetning á vim && git
